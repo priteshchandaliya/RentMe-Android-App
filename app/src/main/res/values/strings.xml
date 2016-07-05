@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Rent Me</string>
+    <string name="action_settings">Contact info</string>
+    <string name="no_bed">Bedroom: </string>
+    <string-array name="no_bed">
+        <item id="onebed">1</item>
+        <item id="twobed">2</item>
+        <item id="threebed">3</item>
+        <item id="anybed">Any</item>
+    </string-array>
+
+    <string name="no_bath">Bathroom: </string>
+    <string-array name="no_bath">
+        <item id="onebath">1</item>
+        <item id="onehalfbath">1.5</item>
+        <item id="twobath">2</item>
+        <item id="twohalfbath">2.5</item>
+        <item id="threebath">3</item>
+        <item id="anybath">Any</item>
+    </string-array>
+
+    <string name="availability">Availability: </string>
+    <string-array name="availability">
+        <item id="avail_now ">Immediate</item>
+        <item id="avail_twoweeks">Within two weeks</item>
+        <item id="avail_onemonth">Within one month</item>
+        <item id="avail_twomonth">Within two months</item>
+        <item id="avail_custom">Just for inquiry</item>
+    </string-array>
+    <string name="title_activity_contact_info">Contact Info</string>
+    <string name="title_activity_display_fragment">Display Floorplans</string>
+
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_684fb3db39bd11ae47953b0818b0726c27aa81c6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/priteshchandaliya/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.4.0_fe09360e7354a228a6005895afba4e530c8c3f9f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/priteshchandaliya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_5058662a2f1ac1c2af72fef36d68d2934a402c6b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_a864038e564395b2a5c6e7789f2d6058d7508520/classes.dex" />
+    </item>
+    <item
+        jar="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1c24d9346c2da67c65fedfd065c080585d998dc6">
+        <dex dex="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_23cb001554c522c45b6fa69c72e84b368dadd92e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_8c1e304e511a75a118d339995d694b4256ea0a91/classes.dex" />
+    </item>
+    <item
+        jar="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_576666cf7e29d4601e1fb7494dc876da657ab639/classes.dex" />
+    </item>
+    <item
+        jar="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_4084363ab3136da725930c9c3a949ad135c6cb53/classes.dex" />
+    </item>
+    <item
+        jar="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_628528893d31a408c29f29330c3c1ec4e8a21717/classes.dex" />
+    </item>
+    <item
+        jar="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_c531262d3c37f5583f1b3a00e7e12c9ca3b5d7ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bcbf82097619e54eb866049247d734629c29fed1">
+        <dex dex="/Users/priteshchandaliya/Desktop/RentMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0c5af7ff9ff2ad4000ebaed343b3fdb659d33131/classes.dex" />
+    </item>
+
+</items>
